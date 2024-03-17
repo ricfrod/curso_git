@@ -1,1 +1,5 @@
 Testando atualização do clone
+
+foobar
+fooqux
+testando
