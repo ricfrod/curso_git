@@ -3,3 +3,5 @@ Testando atualização do clone
 foobar
 fooqux
 testando
+
+enviando funcionalidade b
